@@ -1,0 +1,108 @@
+# СТАТИСТИКА НА ИГРАЧИ:
+
+# Топ статистика
+
+def rating(player):
+    pass
+
+
+def minutes_played(player):
+    pass
+
+
+def goals(player):
+    pass
+
+
+def expected_goals(player):
+    pass
+
+
+def xg_on_target(player):
+    pass
+
+
+def assists(player):
+    pass
+
+
+def expected_assists(player):
+    pass
+
+
+def accurate_passes(player):
+    pass
+
+
+def chances_created(player):
+    pass
+
+
+def shoots_on_target(player):
+    pass
+
+
+def shoots_of_target(player):
+    pass
+
+
+# Атака
+
+def touches(player):
+    pass
+
+
+def touches_in_opposition_box(player):
+    pass
+
+
+def succesfull_dribbles(player):
+    pass
+
+
+def passes_into_final_third(player):
+    pass
+
+
+def accurate_long_balls(player):
+    pass
+
+
+def corners_taken(player):
+    pass
+
+
+def dispossessed(player):
+    pass
+
+
+# Защита
+
+def tackles_won(player):
+    pass
+
+
+def interceptions(player):
+    pass
+
+
+def recoveries(player):
+    pass
+
+
+# Дуели
+
+def ground_duels_won(player):
+    pass
+
+
+def aerial_duels_won(player):
+    pass
+
+
+def was_fouled(player):
+    pass
+
+
+def fouls_committed(player):
+    pass
