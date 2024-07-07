@@ -1,3 +1,4 @@
+import time
 # СТАТИСТИКА НА ИГРАЧИ:
 
 # Топ статистика
@@ -7,7 +8,15 @@ def rating(player):
 
 
 def minutes_played(player):
-    pass
+    is_player_in = False
+    minutes_play = 0
+    if time.time():
+        for minute in range(90):
+            if player in starting_players_list:
+                minutes_play += 1
+                is_player_in = True
+            else:
+                is_player_in = False
 
 
 def goals(player):
